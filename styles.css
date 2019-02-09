@@ -1,0 +1,10 @@
+body{
+    background: #3a3939;
+}
+.sprite{
+    width: 245px;
+    height: 200px;
+    position: relative;
+    margin: 0 auto;
+    background: url('sprite.png') 0 0;
+}
