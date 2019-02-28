@@ -1,0 +1,24 @@
+{
+  "name": "sprites-tweenmax-animation",
+  "version": "1.0.0",
+  "description": "Sprites animation using TweenMax. The main proposal of this repository is the undestanding how to make a simple sprite animation using GSAP TweenMAx.",
+  "main": "index.js",
+  "scripts": {
+    "dev": "parcel src/index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/viktorarias/sprites-tweenmax-animation.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/viktorarias/sprites-tweenmax-animation/issues"
+  },
+  "homepage": "https://github.com/viktorarias/sprites-tweenmax-animation#readme",
+  "dependencies": {
+    "gsap": "^2.1.1",
+    "parcel-bundler": "^1.11.0"
+  }
+}
