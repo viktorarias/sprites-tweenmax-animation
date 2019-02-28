@@ -12,7 +12,7 @@ Install npm modules
 <br>
 `npm install`
 
-Then install parcel to bundle the files
+Then, install parcel to bundle the files
 <br>
 `npm install -g parcel-bundler`
 
