@@ -1,7 +1,9 @@
 # sprites-tweenmax-animation
+<br>
 Sprites animation using TweenMax.
-The main proposal of this repository is the undestanding how to make a simple sprite animation using GSAP TweenMAx.
-
+<br>
+The main proposal of this repository is the undestanding how to make a simple sprite animation using GSAP TweenMax.
+<br><br>
 First of all we need a horizontal or vertical sprite image for make the movement.
 I recommed use horizontal sprite because is lighter than vertical sprite.
 
