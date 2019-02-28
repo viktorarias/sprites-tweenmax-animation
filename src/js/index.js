@@ -1,3 +1,4 @@
+import {TweenMax} from "gsap/TweenMax";
 const koopa = document.querySelector('#koopa');
 const timeLine = new TimelineMax();
 
