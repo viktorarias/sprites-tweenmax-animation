@@ -2,6 +2,7 @@ node_modules
 .npm
 .node_history
 .node_repl_history
+.cache
 .vagrant
 .DS_Store
 Thumbs.db
