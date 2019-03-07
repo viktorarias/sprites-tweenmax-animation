@@ -10,5 +10,5 @@ dump.rdb
 npm-debug.log
 package-lock.json
 yarn.lock
-
+.gi
 dist/

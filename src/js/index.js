@@ -6,6 +6,7 @@ const timeLine = new TimelineMax();
     {
         backgroundPosition: '5830px',
         ease: SteppedEase.config(22),
+        force3D: true,
+        rotationZ: 0.01,
         repeat: 3
-
 })
